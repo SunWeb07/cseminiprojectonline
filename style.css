@@ -67,9 +67,9 @@
     position: fixed;
     left: 0;
     bottom: 0;
-    padding: 1%;
+    padding: .5%;
     width: 100%;
-    background-color: red;
+    background-color: #1abc9c;
     color: white;
     text-align: center;
   }

@@ -1,6 +1,8 @@
 .product-container{
     padding: 10%;
     display: flex;
+    align-items: center;
+    justify-content: center;
     overflow-x: auto;
     scroll-behavior: smooth;
 }
@@ -11,8 +13,8 @@
 
 .product-card{
     flex: 0 0 auto;
-    width: 20%;
-    height:10%;
+    width: 30%;
+   
     margin-right: 40px;
 }
 
